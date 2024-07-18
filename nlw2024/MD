@@ -1,0 +1,10 @@
+// comentarios, variaveis, tipos de dados, function, atribuição de valor
+
+//variaveis
+const mensagem = "Boa noite ou Bon dia"
+
+//tipo de dado
+  //STRINGS: "" , '', ``
+  //number: 2 1.3
+//function
+alert(mensagem)
